@@ -1,0 +1,11 @@
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\bin\Debug\netcoreapp2.1\StudentManager.deps.json
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\bin\Debug\netcoreapp2.1\StudentManager.runtimeconfig.json
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\bin\Debug\netcoreapp2.1\StudentManager.runtimeconfig.dev.json
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\bin\Debug\netcoreapp2.1\StudentManager.dll
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\bin\Debug\netcoreapp2.1\StudentManager.pdb
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\obj\Debug\netcoreapp2.1\StudentManager.csprojAssemblyReference.cache
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\obj\Debug\netcoreapp2.1\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\obj\Debug\netcoreapp2.1\StudentManager.AssemblyInfoInputs.cache
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\obj\Debug\netcoreapp2.1\StudentManager.AssemblyInfo.cs
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\obj\Debug\netcoreapp2.1\StudentManager.dll
+C:\Users\minh\Desktop\Mvc1-master\Mvc1-master\StudentLibary\StudentManager\obj\Debug\netcoreapp2.1\StudentManager.pdb

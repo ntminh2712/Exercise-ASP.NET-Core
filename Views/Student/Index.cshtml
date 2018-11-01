@@ -1,0 +1,21 @@
+﻿@model List<Student>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Student</h2>
+<div class="alert-success">@TempData["message"]</div>
+<div class="alert-danger"></div>
+<ul>
+    @foreach (var student in Model)
+    {
+    <li>
+        @student.RollNumber - @student.Name
+        @*<a href="/Student/Edit?id=@student.Id">Edit</a>*@
+       
+        <a href="/Student/Edit?id=@student.Id" class="btn btn-primary">Edit</a>
+        <button class="btnDelete" id="@student.Id"  class="btn btn-primary">Delete</button> 
+    </li>
+    }
+</ul>
+

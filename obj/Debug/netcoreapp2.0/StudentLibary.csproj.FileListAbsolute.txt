@@ -1,0 +1,11 @@
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\bin\Debug\netcoreapp2.0\StudentLibary.deps.json
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\bin\Debug\netcoreapp2.0\StudentLibary.runtimeconfig.json
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\bin\Debug\netcoreapp2.0\StudentLibary.runtimeconfig.dev.json
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\bin\Debug\netcoreapp2.0\StudentLibary.dll
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\obj\Debug\netcoreapp2.0\StudentLibary.csprojAssemblyReference.cache
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\obj\Debug\netcoreapp2.0\StudentLibary.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\obj\Debug\netcoreapp2.0\StudentLibary.AssemblyInfoInputs.cache
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\obj\Debug\netcoreapp2.0\StudentLibary.AssemblyInfo.cs
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\bin\Debug\netcoreapp2.0\StudentLibary.pdb
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\obj\Debug\netcoreapp2.0\StudentLibary.dll
+C:\Users\Hoang Hung\source\repos\StudentLibary\StudentLibary\obj\Debug\netcoreapp2.0\StudentLibary.pdb
